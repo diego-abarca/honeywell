@@ -1,0 +1,12 @@
+.single-student-page {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  .selected-student-page{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

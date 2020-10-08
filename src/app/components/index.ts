@@ -1,0 +1,6 @@
+export {default as CreateButton} from './CreateButton/CreateButton'
+export {default as ProfilePicture} from './ProfilePicture/ProfilePicture'
+export {default as StudentData} from './StudentData/StudentData'
+export {default as StudentTable} from './StudentTable/StudentTable'
+export {default as CreateStudentForm} from './CreateStudent/CreateStudentForm'
+export {default as GoBackButton} from './GoBackButton/GoBackButton'

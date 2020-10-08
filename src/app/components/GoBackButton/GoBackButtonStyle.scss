@@ -1,0 +1,18 @@
+.go-back-row{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  .button{
+    cursor: pointer;
+    background-color: #6c757d; /* Green */
+    border: none;
+    border-radius: 10px;
+    color: #fff!important;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  margin-bottom: 10px;
+}
